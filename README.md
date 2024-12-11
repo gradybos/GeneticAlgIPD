@@ -3,11 +3,11 @@ For the final project of the CSC-323 course, we were given the choice to continu
 
 ## Helpful links
 
-For more detailed info, read my [Final Project Paper]().
+For more detailed info, read my [Final Project Paper](https://github.com/gradybos/GeneticAlgIPD/blob/main/Bosanko___Final_Project_Paper.pdf).
 
-To see the results I was able to achieve, see the [Main Notebook]().
+To see the results I was able to achieve, see the [Main Notebook](https://github.com/gradybos/GeneticAlgIPD/blob/main/project_files/final_project.ipynb).
 
-All files relevant to recreating the experiment are located in the [Project Files Folder]().
+All files relevant to recreating the experiment are located in the [Project Files Folder](https://github.com/gradybos/GeneticAlgIPD/tree/main/project_files).
 
 ## Setup
 
